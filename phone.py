@@ -45,7 +45,7 @@ print("                                                                         
  
 
 
-banner()                                              >
+banner()                                              
 
 if sys.version_info[0] < 3:
     print("\033[1m\033[93m(!) Please run the tool usin>
