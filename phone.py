@@ -11,30 +11,9 @@ except:
     print('[!] Missing requirements. Try running pytho>
     sys.exit()
 
-def banner()
- 
-print("                                                                               ")
-       ...                                    ..                                      
-   .x888888hx    :   .uef^"                 dF                       x=~              
-  d88888888888hxx  :d88E                   '88bu.             u.    88x.   .e.   .e.  
- 8" ... `"*8888%`  `888E             u     '*88888bu    ...ue888b  '8888X.x888:.x888  
-!  "   ` .xnxx.     888E .z8k     us888u.    ^"*8888N   888R Y888r  `8888  888X '888k 
-X X   .H8888888%:   888E~?888L .@88 "8888"  beWE "888L  888R I888>   X888  888X  888X 
-X 'hn8888888*"   >  888E  888E 9888  9888   888E  888E  888R I888>   X888  888X  888X 
-X: `*88888%`     !  888E  888E 9888  9888   888E  888E  888R I888>   X888  888X  888X 
-'8h.. ``     ..x8>  888E  888E 9888  9888   888E  888F u8888cJ888   .X888  888X. 888~ 
- `88888888888888f   888E  888E 9888  9888  .888N..888   "*888*P"    `%88%``"*888Y"    
-  '%8888888888*"   m888N= 888> "888*""888"  `"888*""      'Y"         `~     `"       
-     ^"****""`      `Y"   888   ^Y"   ^Y'      ""                                     
-                         J88"                                                         
-                         @%                                                           
-                       :"                                                             
-print("                                                                              ")         
-print("                                                                              ")
-print("                                                                              ")
-print("                                                                              ")
-print("                                                                              ")
 
+print(" Coded by Shadow")
+    print("\n")
 
                                              
       
@@ -45,7 +24,7 @@ print("                                                                         
  
 
 
-banner()                                              
+                                              
 
 if sys.version_info[0] < 3:
     print("\033[1m\033[93m(!) Please run the tool usin>
